@@ -1,2 +1,2 @@
 # Hospital-reception-program
-College project aims to recording patients .
+College project aims to record patients .
